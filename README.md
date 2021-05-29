@@ -11,9 +11,16 @@
     <img src="https://img.shields.io/badge/Twitter-p_brtd-%231DA1F2?logo=twitter&style=flat-square" alt="Twitter: p_brtd"/>
   </a>
 </p>
-- 👀 I’m interested in coding discord bots and websited
-- 🌱 I’m currently learning advanced bot development
-- 📫 Reach me on discord: [HERE](https://dsc.gg/club)
+
+- 🖥 I am currently a manager, web developer and bot developer for **[Ticketly Development](https://ticketlybot.xyz)**.
+
+- 🔨 I am currently working on **[Ticketly](https://ticketlybot.xyz)**. 
+
+- 📨 You can reach me @ **[peberthodin@outlook.com](mailto:peberthodin@outlook.com)**.
+
+- ⭐ My goal for 2021 is to finish Ticketly v3.
+
+<br>
 
 Currently working on a discord bot, Ticketly. It's a powerfull bot that manages tickets in your server :)
 
