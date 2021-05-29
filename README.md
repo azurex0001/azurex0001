@@ -22,8 +22,6 @@
 
 <br>
 
-Currently working on a discord bot, Ticketly. It's a powerfull bot that manages tickets in your server :)
-
 <details>
   <summary>⚡ GitHub Statistics</summary> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paul-brtd&layout=compact&theme=tokyonight" />
