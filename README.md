@@ -12,7 +12,7 @@
   </a>
 </p>
 
-- 🖥 I am currently a manager, web developer and bot developer for **[AntiRaid](https://antiraid.xyz)** and **[Network Ads](dsc.gg/networkads)**.
+- 🖥 I am currently a manager, web developer and bot developer for **[AntiRaid](https://antiraid.xyz)** and **[Network Ads](https://discord.gg/tPs9dWTJjZ)**.
 
 - 🔨 I am currently working on **[AntiRaid](https://antiraid.xyz)**. 
 
