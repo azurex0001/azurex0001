@@ -14,11 +14,11 @@
 
 - 🖥 I am currently a manager, web developer and bot developer for **[Ticketly Development](https://ticketlybot.xyz)**.
 
-- 🔨 I am currently working on **[Ticketly](https://ticketlybot.xyz)**. 
+- 🔨 I am currently working on **[AntiRaid](https://antiraid.xyz)**. 
 
 - 📨 You can reach me @ **[peberthodin@outlook.com](mailto:peberthodin@outlook.com)**.
 
-- ⭐ My goal for 2021 is to finish Ticketly v3.
+- ⭐ My goal for 2021 is to finish AntiRaid v4.
 
 <br>
 
