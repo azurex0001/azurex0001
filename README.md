@@ -34,7 +34,9 @@
   <summary>⏰ Development Time Stats</summary>
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JavaScript   33 mins         ████████████▒░░░░░░░░░░░░   48.80 % 
+EJS          26 mins         █████████▓░░░░░░░░░░░░░░░   38.12 % 
+Bash         8 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.86 % 
 ```
 <!--END_SECTION:waka-->
 </details>
