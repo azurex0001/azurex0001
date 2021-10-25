@@ -34,9 +34,8 @@
   <summary>⏰ Development Time Stats</summary>
 <!--START_SECTION:waka-->
 ```text
-JavaScript   33 mins         ████████████▒░░░░░░░░░░░░   49.68 % 
-EJS          24 mins         █████████▒░░░░░░░░░░░░░░░   36.93 % 
-Bash         8 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.17 % 
+HTML         25 mins         ██████████████████████▒░░   89.99 % 
+JavaScript   2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
 ```
 <!--END_SECTION:waka-->
 </details>
