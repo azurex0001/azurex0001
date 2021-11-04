@@ -34,7 +34,8 @@
   <summary>⏰ Development Time Stats</summary>
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Bash     23 mins         ██████████████████████▓░░   90.82 % 
+Python   2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
 ```
 <!--END_SECTION:waka-->
 </details>
