@@ -34,10 +34,8 @@
   <summary>⏰ Development Time Stats</summary>
 <!--START_SECTION:waka-->
 ```text
-JavaScript   3 hrs 14 mins   █████████████████████▓░░░   86.58 % 
-Bash         23 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
-JSON         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
-Python       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+JavaScript   3 hrs 14 mins   ████████████████████████▒   97.66 % 
+JSON         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
 ```
 <!--END_SECTION:waka-->
 </details>
