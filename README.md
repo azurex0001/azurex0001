@@ -34,7 +34,7 @@
   <summary>⏰ Development Time Stats</summary>
 <!--START_SECTION:waka-->
 ```text
-EJS          3 mins          ██████████████████████▒░░   89.87 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 </details>
