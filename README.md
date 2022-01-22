@@ -34,8 +34,7 @@
   <summary>⏰ Development Time Stats</summary>
 <!--START_SECTION:waka-->
 ```text
-JavaScript   40 mins         ████████████████████████░   96.22 % 
-JSON         1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+
 ```
 <!--END_SECTION:waka-->
 </details>
