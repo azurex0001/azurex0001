@@ -7,18 +7,13 @@
   <a href="https://discord.com/users/744825560034705508">
     <img src="https://img.shields.io/badge/Discord-Paulツ%235380-%237289da?logo=discord&style=flat-square" alt="Discord: Paulツ#5380"/>
   </a>
-  <a href="https://twitter.com/p_brtd">
-    <img src="https://img.shields.io/badge/Twitter-p_brtd-%231DA1F2?logo=twitter&style=flat-square" alt="Twitter: p_brtd"/>
-  </a>
 </p>
 
-- 🖥 I am currently a manager, web developer and bot developer for **[AntiRaid](https://antiraid.xyz)** and **[Network Ads](https://discord.gg/tPs9dWTJjZ)**.
+- 🖥 I am currently a manager, web developer and bot developer for **[AntiRaid](https://antiraid.xyz)**.
 
-- 🔨 I am currently working on **[AntiRaid](https://antiraid.xyz)**. 
+- 🔨 I am currently working on **[FatesList](https://fateslist.xyz)**. 
 
-- 📨 You can reach me @ **[peberthodin@outlook.com](mailto:peberthodin@outlook.com)**.
-
-- ⭐ My goal for 2021 is to finish AntiRaid v4.
+- 📨 You can reach me @ **[hi@azurex.me](mailto:hi@azurex.me)**.
 
 <br>
 
