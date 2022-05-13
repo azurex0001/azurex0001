@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Paul.</h1>
+<h1 align="center">Hi 👋, I'm Azurex.</h1>
 
 <p align="center">
   <a href="https://github.com/paul-brtd">
     <img src="https://komarev.com/ghpvc/?username=paul-brtd&style=flat-square&label=Profile%20Views&logo=github" alt="Profile View Count"/>
   </a>
   <a href="https://discord.com/users/744825560034705508">
-    <img src="https://img.shields.io/badge/Discord-Paulツ%235380-%237289da?logo=discord&style=flat-square" alt="Discord: Paulツ#5380"/>
+    <img src="https://img.shields.io/badge/Discord-Azurex%230001-%237289da?logo=discord&style=flat-square" alt="Discord: Paulツ#5380"/>
   </a>
 </p>
 
@@ -62,6 +62,5 @@ No activity tracked
 ---
 
 <p align="center">
-<a href="https://twitter.com/p_brtd" target="_blank"><img alt="Twitter" title="Twitter" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://antiraid.xyz/discord" target="_blank"><img alt="Discord" title="Discord" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://fateslist.xyz" target="_blank"><img alt="Discord" title="Discord" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
