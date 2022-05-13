@@ -19,9 +19,9 @@
 
 <details>
   <summary>⚡ GitHub Statistics</summary> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paul-brtd&layout=compact&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api?username=paul-brtd&count_private=true&show_icons=true&theme=tokyonight" />
-  <img src="https://github-profile-trophy.vercel.app/?username=paul-brtd&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azurex0001&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=azurex0001&count_private=true&show_icons=true&theme=tokyonight" />
+  <img src="https://github-profile-trophy.vercel.app/?username=azurex0001&theme=dracula" />
 </details>
 
 
