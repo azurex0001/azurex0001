@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Azurex.</h1>
+<h1 align="center">Hi 👋, I'm Azu.</h1>
 
 <p align="center">
-  <a href="https://github.com/paul-brtd">
-    <img src="https://komarev.com/ghpvc/?username=paul-brtd&style=flat-square&label=Profile%20Views&logo=github" alt="Profile View Count"/>
+  <a href="https://github.com/azurexxxx">
+    <img src="https://komarev.com/ghpvc/?username=azurexxxx&style=flat-square&label=Profile%20Views&logo=github" alt="Profile View Count"/>
   </a>
-  <a href="https://discord.com/users/744825560034705508">
-    <img src="https://img.shields.io/badge/Discord-Azurex%230001-%237289da?logo=discord&style=flat-square" alt="Discord: Paulツ#5380"/>
+  <a href="https://discord.com/users/892447238427672607">
+    <img src="https://img.shields.io/badge/Discord-azu%232222-%237289da?logo=discord&style=flat-square" alt="Discord: azu#2222"/>
   </a>
 </p>
 
-- 🖥 I am currently a manager, web developer and bot developer for **[AntiRaid](https://antiraid.xyz)**.
+- 🖥 I am currently working on many projects using the PayPal and Discord API.
 
-- 🔨 I am currently working on **[FatesList](https://fateslist.xyz)**. 
+- 🔨 Learn more about me @ [azurex.me](https://azurex.me). 
 
 - 📨 You can reach me @ **[hi@azurex.me](mailto:hi@azurex.me)**.
 
@@ -19,9 +19,9 @@
 
 <details>
   <summary>⚡ GitHub Statistics</summary> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azurex0001&layout=compact&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api?username=azurex0001&count_private=true&show_icons=true&theme=tokyonight" />
-  <img src="https://github-profile-trophy.vercel.app/?username=azurex0001&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azurexxxx&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=azurexxxx&count_private=true&show_icons=true&theme=tokyonight" />
+  <img src="https://github-profile-trophy.vercel.app/?username=azurexxxx&theme=dracula" />
 </details>
 
 
