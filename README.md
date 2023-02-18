@@ -7,7 +7,9 @@
   <a href="https://discord.com/users/892447238427672607">
     <img src="https://img.shields.io/badge/Discord-azu%232222-%237289da?logo=discord&style=flat-square" alt="Discord: azu#2222"/>
   </a>
-  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V3I1EC3)
+  <a href="https://ko-fi.com/V7V3I1EC3">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg"
+  </a>
 </p>
 
 - 🖥 I am currently working on many projects using the PayPal and Discord API.
