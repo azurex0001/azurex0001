@@ -6,11 +6,14 @@
   </a>
   <a href="https://discord.com/users/892447238427672607">
     <img src="https://img.shields.io/badge/Discord-azu%232222-%237289da?logo=discord&style=flat-square" alt="Discord: azu#2222"/>
-  </a>
+    </p>
+  
+  <p align="center">
   <a href="https://ko-fi.com/V7V3I1EC3">
     <img src="https://us-east-1.tixte.net/uploads/cdn.azurex.me/httrhtr_(1).png"
   </a>
 </p>
+
 
 - 🖥 I am currently working on many projects using the PayPal and Discord API.
 
