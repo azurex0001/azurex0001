@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Discord-azu%232222-%237289da?logo=discord&style=flat-square" alt="Discord: azu#2222"/>
   </a>
   <a href="https://ko-fi.com/V7V3I1EC3">
-    <img src="https://storage.ko-fi.com/cdn/brandasset/kofi_bg_tag_dark.png"
+    <img src="https://us-east-1.tixte.net/uploads/cdn.azurex.me/httrhtr_(1).png"
   </a>
 </p>
 
