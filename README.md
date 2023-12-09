@@ -41,5 +41,3 @@
 <img src="https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=Discord" />
 </p>
 </details>
-
----
