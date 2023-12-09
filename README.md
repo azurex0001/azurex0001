@@ -5,7 +5,7 @@
     <img src="https://komarev.com/ghpvc/?username=azurexxxx&style=flat-square&label=Profile%20Views&logo=github" alt="Profile View Count"/>
   </a>
   <a href="https://discord.com/users/892447238427672607">
-    <img src="https://img.shields.io/badge/Discord-azu%232222-%237289da?logo=discord&style=flat-square" alt="Discord: azurex0001"/>
+    <img src="https://img.shields.io/badge/Discord-azurex0001-%237289da?logo=discord&style=flat-square" alt="Discord: azurex0001"/>
     </p>
 
 - 📨 You can reach me @ **[gh4qvdic@azu.anonaddy.me](mailto:gh4qvdic@azu.anonaddy.me)**.
