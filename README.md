@@ -5,21 +5,10 @@
     <img src="https://komarev.com/ghpvc/?username=azurexxxx&style=flat-square&label=Profile%20Views&logo=github" alt="Profile View Count"/>
   </a>
   <a href="https://discord.com/users/892447238427672607">
-    <img src="https://img.shields.io/badge/Discord-azu%232222-%237289da?logo=discord&style=flat-square" alt="Discord: azu#2222"/>
+    <img src="https://img.shields.io/badge/Discord-azu%232222-%237289da?logo=discord&style=flat-square" alt="Discord: azurex0001"/>
     </p>
-  
-  <p align="center">
-  <a href="https://ko-fi.com/V7V3I1EC3">
-    <img src="https://us-east-1.tixte.net/uploads/cdn.azurex.me/httrhtr_(1).png"
-  </a>
-</p>
 
-
-- 🖥 I am currently working on many projects using the PayPal and Discord API.
-
-- 🔨 Learn more about me @ [azurex.me](https://azurex.me). 
-
-- 📨 You can reach me @ **[hi@azurex.me](mailto:hi@azurex.me)**.
+- 📨 You can reach me @ **[gh4qvdic@azu.anonaddy.me](mailto:gh4qvdic@azu.anonaddy.me)**.
 
 <br>
 
@@ -28,18 +17,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azurexxxx&layout=compact&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api?username=azurexxxx&count_private=true&show_icons=true&theme=tokyonight" />
   <img src="https://github-profile-trophy.vercel.app/?username=azurexxxx&theme=dracula" />
-</details>
-
-
-<details open>
-  <summary>⏰ Development Time Stats</summary>
-<!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
 </details>
 
 <details open>
