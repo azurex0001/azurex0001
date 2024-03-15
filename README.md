@@ -8,7 +8,8 @@
     <img src="https://img.shields.io/badge/Discord-azurex0001-%237289da?logo=discord&style=flat-square" alt="Discord: azurex0001"/>
     </p>
 
-- 📨 You can reach me @ **[azurexdiscord@gmail.com](mailto:azurexdiscord@gmail.com)**.
+- 📨 You can reach me @ **[hi@azurex.me](mailto:hi@azurex.me)**.
+- 🎈 Website: **[azurex.me](https://azurex.me)**
 
 <br>
 
