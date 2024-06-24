@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Azu.</h1>
+<h1 align="center">Hi 👋, I'm Azurex</h1>
 
 <p align="center">
   <a href="https://github.com/azurexxxx">
